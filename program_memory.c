@@ -19,8 +19,8 @@
 #define ISR_PCINT0_end  39 /* End address for PCINT0 interrupt handler.*/
 #define end             40 /* End address for current program. */
 
-#define LED1 PORTB0        /* Led 1 connected to pin 8 (PORTB0). */
-#define BUTTON1 PORTB5     /* Button 1 connected to pin 13 (PORTB5). */
+#define LED1 PORTB0         /* Led 1 connected to pin 8 (PORTB0). */
+#define BUTTON1 PORTB5      /* Button 1 connected to pin 13 (PORTB5). */
 #define led1_enabled 1000   /* Address for variable storing the state of led 1.  */
 
 /* Static functions: */
